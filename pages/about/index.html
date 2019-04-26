@@ -2,6 +2,8 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
   <title>Enzenius: One Stop Solution for Higher Education in New Zealand</title>
 
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -9,25 +11,36 @@
   <link href="/css/main.css" rel="stylesheet">
   <link rel="stylesheet" href="css/main.css">
 
+  <script
+      src="https://code.jquery.com/jquery-3.4.0.min.js"
+      integrity="sha256-BJeo0qm959uMBGb65z40ejJYGSgR7REI4+CW1fNKwOg="
+      crossorigin="anonymous"></script>
+  <script src="/js/main.js"></script>
 </head>
 <body>
   <main class="site-main">
     <nav class="site-nav">
-      <h1 class="brand">Enzenius Education Consulting Services</h1>
+      <a href="/"><h1 class="brand">Enzenius Education Consulting Services</h1></a>
 
-      <ul>
-        <li><a href="/">Home</a></li>
-        <li><a href="/pages/about/">About Us</a></li>
-        <li><a href="/pages/services/">Services</a></li>
-        <li><a href="/pages/explore/">Explore Country</a></li>
-        <li><a href="/pages/news/">News &amp; Events</a></li>
-        <li><a href="/pages/people/">Our People</a></li>
-        <li><a href="/pages/colleges/">Universities &amp; Colleges</a></li>
-        <li><a href="/pages/contact/">Get In Touch</a></li>
-      </ul>
+      <div class="site-nav-menu">
+        <a href="#" class="site-nav-menu-icon">
+          <i class="material-icons">menu</i>
+        </a>
+
+        <ul>
+          <li><a href="/">Home</a></li>
+          <li><a href="/pages/about/">About Us</a></li>
+          <li><a href="/pages/services/">Services</a></li>
+          <li><a href="/pages/explore/">Explore Country</a></li>
+          <li><a href="/pages/news/">News &amp; Events</a></li>
+          <li><a href="/pages/people/">Our People</a></li>
+          <li><a href="/pages/colleges/">Universities &amp; Colleges</a></li>
+          <li><a href="/pages/contact/">Get In Touch</a></li>
+        </ul>
+      </div>
     </nav>
 
-    <div class="hero" style="background: url(/images/about/01.jpg) no-repeat left center; background-size: cover">
+    <div class="page-hero" style="background-image: url(/images/about/01.jpg)">
     </div>
 
 
@@ -38,14 +51,14 @@
       </h2>
 
       <h3>
-        WELCOME TO ENZENIUS EDUCATION CONSULTING SERVICES
+        Welcome To Enzenius Education Consulting Services
       </h3>
 
       <div class="two-col">
         <p>
-          Enzenius is a one-stop solution for all your international education & immigration formalities, ranging from
+          <strong>Enzenius</strong> is a one-stop solution for all your international education & immigration formalities, ranging from
           decision making on where to study to arriving and settling down in your destination country like New Zealand,
-          Australia, Canada, USA and Japan. Our principle is simple- your success is our success. Enzenius has been
+          Australia, Canada, USA and Japan. Our principle is simple- your success is our success. <strong>Enzenius</strong> has been
           established by immigrants like you, who had the dream of obtaining world-class education and worked hard to
           achieve that and later on some of us decided to settle down in our adopted land. We understand the challenges
           of going abroad to study on your own, leaving your familiar surroundings for a unknown land for the
@@ -61,21 +74,21 @@
       </div>
 
 
-<div class="card" style="margin-top: 32px; margin-bottom: 32px;">
-  <h3>Our Mission</h3>
-
-  <p>
-    Our mission is to become #1 trusted higher education and immigration services provider in the markets we
-    operate. Enzenius is built on strong values that empathies with its customers (i.e., guests), offering
-    personalized services that understands the stress and worry associated with going abroad for higher education
-    and the immigration process.
-  </p>
-
-</div>
+    <div class="card card-primary" style="margin-top: 32px; margin-bottom: 32px;">
+      <h3 class="card-title">Our Mission</h3>
 
       <p>
-        Our aim is:
+        Our mission is to become #1 trusted higher education and immigration services provider in the markets we
+        operate. <strong>Enzenius</strong> is built on strong values that empathies with its customers (i.e., guests), offering
+        personalized services that understands the stress and worry associated with going abroad for higher education
+        and the immigration process.
       </p>
+
+    </div>
+
+      <h3>
+        Our Aim
+      </h3>
 
       <div class="two-col">
         <ul>
@@ -111,7 +124,7 @@
 
 
     <footer class="site-footer">
-      &copy; 2019 Enzenius. All rights reserved.
+      &copy; 2019 Enzenius All rights reserved.
     </footer>
 
   </main>
