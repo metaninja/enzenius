@@ -80,6 +80,10 @@ nav ul {
   color: white;
 }
 
+.col {
+  flex-grow: 1;
+}
+
 .two-col {
   column-count: 2;
   column-gap: 5%;
@@ -228,7 +232,7 @@ nav ul {
   }
   .row .one-thirds,
   .row .two-thirds {
-    width: 100%;
+    width: 90%;
   }
   .site-nav-menu {
     display: flex;
@@ -249,7 +253,7 @@ nav ul {
     flex-direction: column;
   }
   .cards .card {
-    width: 100%;
+    width: 90%;
   }
 
 }
