@@ -2,90 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e2bd354-44f8-4db2-b4b8-0e089a3430a1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about/index.html.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/deploy.sh" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/about/01.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/about/01.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image015.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image015.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image017.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image017.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image019.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image019.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image021.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image021.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image023.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image023.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image025.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image025.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image026.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image026.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image028.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image028.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image030.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image030.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image032.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image032.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image034.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image034.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image036.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image036.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image038.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image038.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image040.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image040.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image042.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image042.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/explore/image044.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/explore/image044.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/home/new-zealand.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/home/new-zealand.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/logo-enzenius.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/logo-enzenius.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/our-people/Rabby-Gandaermaya-2-768x837.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/our-people/Rabby-Gandaermaya-2-768x837.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/our-people/Sherif-Saeed.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/our-people/Sherif-Saeed.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/02.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/services/02.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/03.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/services/03.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/04.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/services/04.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/05.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/services/05.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/06.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/services/06.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/07.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/services/07.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/08.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/services/08.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/services/cropped-Logo-1.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/services/cropped-Logo-1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/ABACUS.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/ABACUS.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/ACMI.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/ACMI.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/AIS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/AIS.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/AUT.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/AUT.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/Cornell.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/Cornell.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/EDENZ.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/EDENZ.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/EEIT.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/EEIT.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/Lincoln.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/Lincoln.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/Manukau.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/Manukau.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/MasseyU.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/MasseyU.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/NMIT.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/NMIT.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/NORTHTEC.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/NORTHTEC.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/OTAGO.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/OTAGO.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/PBRS.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/PBRS.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/TOI-OHOMAI.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/TOI-OHOMAI.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/UUNZ.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/UUNZ.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/Unitech.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/Unitech.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/VictoriaU.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/VictoriaU.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/universities-and-colleges/Waikato.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/images/universities-and-colleges/Waikato.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/.idea/eslintPlugin.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/.idea/simple-scrollspy.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/demo/demo.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/dist/simple-scrollspy.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/src/index.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/simple-scrollspy/src/scrollspy.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/about/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/colleges/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/contact/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/explore/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/news/canada-news-2019-01.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/canada-news-2019-01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/news/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/news/job-info-new-zealand.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/job-info-new-zealand.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/news/nz-higher-ed-update-2019-02.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/nz-higher-ed-update-2019-02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/news/post-study-work-rights.html" beforeDir="false" afterPath="$PROJECT_DIR$/news/post-study-work-rights.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/people/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/services/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/services/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact/index.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore/canada/index.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/explore/canada/index.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore/index.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/explore/index.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/index.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/home/index.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/news/index.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/news/index.html.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/shared/header.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -96,105 +20,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/explore/usa/index.html.php">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="152">
-                    <caret line="14" column="12" lean-forward="true" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="876">
-              <caret line="286" column="1" lean-forward="true" selection-start-line="286" selection-start-column="1" selection-end-line="286" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/index.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#1;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#2;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#a#3;n#div#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/usa/index.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/australia/index.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/canada/index.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/newzealand/index.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="4" selection-start-line="4" selection-end-line="13" selection-end-column="12" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-                <element signature="e#3390#3397#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/explore/newzealand/why/index.html.php">
+        <entry file="file://$PROJECT_DIR$/news/index.html.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="760">
+              <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -212,10 +44,8 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&lt;h1 class=&quot;brand&quot;&gt;&lt;strong&gt;Enzenius&lt;/strong&gt;</find>
       <find>;</find>
       <find>.hero</find>
-      <find>page-hero</find>
       <find>o</find>
       <find>two-col</find>
       <find>the weather</find>
@@ -242,6 +72,8 @@
       <find>divi</find>
       <find>&lt;a href=&quot;/services&quot;&gt;</find>
       <find>.card</find>
+      <find>page-hero</find>
+      <find>page-body</find>
     </findStrings>
     <replaceStrings>
       <replace>var(--gray700)</replace>
@@ -301,35 +133,36 @@
         <option value="$PROJECT_DIR$/about/index.html.php" />
         <option value="$PROJECT_DIR$/services/index.html.php" />
         <option value="$PROJECT_DIR$/news/index.html" />
-        <option value="$PROJECT_DIR$/news/index.html.php" />
         <option value="$PROJECT_DIR$/faq/index.html" />
         <option value="$PROJECT_DIR$/faq/index.html.php" />
         <option value="$PROJECT_DIR$/explore/index.html" />
         <option value="$PROJECT_DIR$/explore/newzealand/index.php" />
         <option value="$PROJECT_DIR$/contact/index.html" />
-        <option value="$PROJECT_DIR$/contact/index.html.php" />
-        <option value="$PROJECT_DIR$/shared/header.php" />
         <option value="$PROJECT_DIR$/colleges/index.html" />
         <option value="$PROJECT_DIR$/colleges/index.html.php" />
         <option value="$PROJECT_DIR$/explore/usa/index.php" />
         <option value="$PROJECT_DIR$/explore/canada/index.php" />
         <option value="$PROJECT_DIR$/explore/newzealand/why/index.php" />
         <option value="$PROJECT_DIR$/explore/australia/index.php" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/explore/index.html.php" />
         <option value="$PROJECT_DIR$/explore/australia/index.html.php" />
-        <option value="$PROJECT_DIR$/explore/canada/index.html.php" />
         <option value="$PROJECT_DIR$/explore/usa/index.html.php" />
         <option value="$PROJECT_DIR$/explore/newzealand/index.html.php" />
         <option value="$PROJECT_DIR$/explore/newzealand/why/index.html.php" />
+        <option value="$PROJECT_DIR$/explore/canada/index.html.php" />
+        <option value="$PROJECT_DIR$/explore/index.html.php" />
+        <option value="$PROJECT_DIR$/shared/header.php" />
+        <option value="$PROJECT_DIR$/home/index.html.php" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
+        <option value="$PROJECT_DIR$/contact/index.html.php" />
+        <option value="$PROJECT_DIR$/news/index.html.php" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="356" />
-    <option name="y" value="193" />
-    <option name="width" value="1683" />
-    <option name="height" value="1153" />
+    <option name="x" value="862" />
+    <option name="y" value="23" />
+    <option name="width" value="1698" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -349,49 +182,12 @@
             <path>
               <item name="www" type="b2602c69:ProjectViewProjectNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="about" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="www" type="b2602c69:ProjectViewProjectNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-              <item name="australia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-              <item name="canada" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-              <item name="newzealand" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-              <item name="newzealand" type="462c0819:PsiDirectoryNode" />
-              <item name="why" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-              <item name="usa" type="462c0819:PsiDirectoryNode" />
+              <item name="news" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -462,18 +258,19 @@
       <workItem from="1557229942077" duration="5061000" />
       <workItem from="1557450714425" duration="51000" />
       <workItem from="1557574948893" duration="2637000" />
-      <workItem from="1557578724191" duration="7246000" />
+      <workItem from="1557578724191" duration="7468000" />
+      <workItem from="1557639522626" duration="1438000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="53035000" />
+    <option name="totallyTimeSpent" value="54695000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="356" y="193" width="1683" height="1153" extended-state="0" />
+    <frame x="862" y="23" width="1698" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1764706" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17491166" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="npm" order="3" side_tool="true" />
@@ -531,13 +328,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/services/credits.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -552,20 +342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/about/index.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="53" selection-start-line="11" selection-start-column="53" selection-end-line="11" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/about/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -573,19 +349,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/people/index.html.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/people/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1607">
-          <caret line="54" column="4" selection-start-line="54" selection-start-column="4" selection-end-line="54" selection-end-column="4" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#p#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#1;n#section#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/people/index.html.php" />
+    <entry file="file://$PROJECT_DIR$/people/index.html" />
     <entry file="file://$PROJECT_DIR$/services/index.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -596,34 +361,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/news/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="711">
-          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/news/index.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="83" column="46" lean-forward="true" selection-start-line="83" selection-start-column="46" selection-end-line="83" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/index.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="28" selection-start-line="4" selection-start-column="28" selection-end-line="4" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/faq/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="55" column="4" selection-start-line="55" selection-start-column="4" selection-end-line="55" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/news/index.html" />
+    <entry file="file://$PROJECT_DIR$/faq/index.html" />
     <entry file="file://$PROJECT_DIR$/services/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="597">
@@ -646,26 +385,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/explore/australia/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/explore/canada/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="29" column="11" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/explore/newzealand/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/australia/index.html" />
+    <entry file="file://$PROJECT_DIR$/explore/canada/index.html" />
+    <entry file="file://$PROJECT_DIR$/explore/newzealand/index.html" />
+    <entry file="file://$PROJECT_DIR$/contact/index.html" />
     <entry file="file://$PROJECT_DIR$/faq/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -673,27 +396,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/explore/usa/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="734">
-          <caret line="44" column="51" selection-start-line="44" selection-start-column="51" selection-end-line="44" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/explore/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="41" column="12" lean-forward="true" selection-start-line="41" selection-start-column="12" selection-end-line="41" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/colleges/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="730">
-          <caret line="56" selection-start-line="56" selection-end-line="56" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/usa/index.html" />
+    <entry file="file://$PROJECT_DIR$/explore/index.html" />
+    <entry file="file://$PROJECT_DIR$/colleges/index.html" />
     <entry file="file://$PROJECT_DIR$/explore/usa/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -703,20 +408,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.php">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contact/index.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shared/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="21" column="69" selection-start-line="21" selection-start-column="69" selection-end-line="21" selection-end-column="69" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/colleges/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -760,30 +451,92 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/explore/australia/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+          <caret line="13" column="15" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/explore/canada/index.html.php">
+    <entry file="file://$PROJECT_DIR$/explore/newzealand/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="12" lean-forward="true" selection-start-line="13" selection-start-column="12" selection-end-line="13" selection-end-column="12" />
+        <state relative-caret-position="227">
+          <caret line="12" column="21" selection-start-line="12" selection-start-column="21" selection-end-line="12" selection-end-column="21" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/newzealand/why/index.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/usa/index.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="12" selection-start-line="14" selection-start-column="12" selection-end-line="14" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="333" column="3" selection-start-line="332" selection-start-column="2" selection-end-line="333" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/about/index.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#div#4;n#section#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/index.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/explore/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="n#style#0;n#a#0;n#div#0;n#section#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#1;n#div#0;n#section#0;n#!!top" expanded="true" />
@@ -793,38 +546,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/explore/usa/index.html.php">
+    <entry file="file://$PROJECT_DIR$/explore/canada/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="380">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/contact/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="876">
-          <caret line="286" column="1" lean-forward="true" selection-start-line="286" selection-start-column="1" selection-end-line="286" selection-end-column="1" />
+        <state relative-caret-position="546">
+          <caret line="46" column="41" selection-start-line="46" selection-start-column="41" selection-end-line="46" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/explore/newzealand/index.html.php">
+    <entry file="file://$PROJECT_DIR$/news/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="4" selection-start-line="4" selection-end-line="13" selection-end-column="12" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-            <element signature="e#3390#3397#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/explore/newzealand/why/index.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        <state relative-caret-position="760">
+          <caret line="40" column="14" lean-forward="true" selection-start-line="40" selection-start-column="14" selection-end-line="40" selection-end-column="14" />
         </state>
       </provider>
     </entry>

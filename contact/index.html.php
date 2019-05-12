@@ -33,12 +33,24 @@
           </p>
         </div>
 
-
         <div class="card">
           <h3 class="card-title">
             Bangladesh
           </h3>
-<!--          <h4>Enzenius Education Consulting Services</h4>-->
+          <h4>Enzenius Education Consulting Services</h4>
+          <p>
+            House No. 1, Road No. 19, Sector 4,<br>
+            Uttara, Dhaka 1230,<br>
+            Bangladesh (opposite Uttara University)
+          </p>
+          <p>
+            <b>Ph:</b> +88 018 419 34567<br>
+            <b>E:</b> info-ban@enzenius.co.nz
+          </p>
+          <p>
+            <a href="http://www.enzenius.com">www.enzenius.com</a>
+          </p>
+
           <h4>Representative Office in Bogura</h4>
           <p>
             KARATOA TOURS AND TRAVELS<br>

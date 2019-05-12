@@ -177,12 +177,12 @@ nav ul {
 
 .site-body,
 .page-body{
-  width: 100%;
+  width: 90%;
   max-width: 1000px;
-  margin: 0 5%;
+  margin: 0 auto;
 }
 .page-body {
-  padding-top: 64px;
+  padding-top: 24px;
 }
 
 .site-nav {
@@ -234,7 +234,6 @@ nav ul {
   background-position: left center;
   background-size: cover;
   background-color: #EEEEEE;
-  margin: 20px 0;
 }
 
 .site-footer {
@@ -255,6 +254,25 @@ nav ul {
   background-size: contain;
   background-position: center center;
   background-repeat: no-repeat;
+}
+.tiled-images-large {
+  display: flex;
+  flex-wrap: wrap;
+}
+.tiled-images-large .tiled-image-large {
+  display: flex;
+  align-items: flex-end;
+  width: calc(50% - 40px);
+  height: 200px;
+  padding: 24px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  font-size: 24px;
+  color: #fff;
+  background-color: #333;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
 }
 
 .cards {
@@ -345,18 +363,30 @@ nav ul {
     flex-direction: column;
     align-items: center;
   }
-  .card {
-    width: 100%;
-    padding: 0;
-    box-shadow: none;
-    margin: auto;
-  }
   .cards .card {
     width: 100%;
-    padding: 5%;
-    margin-bottom: 24px;
+    margin-left: 0;
+    margin-right: 0;
   }
+
+  .card {
+    padding: 0;
+    box-shadow: none;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  /*.cards .card {*/
+  /*  width: 100%;*/
+  /*  padding: 5%;*/
+  /*  margin-left: 0;*/
+  /*  margin-right: 0;*/
+  /*  margin-bottom: 24px;*/
+  /*}*/
   .card-primary {
     padding: 3%;
+  }
+  .tiled-images-large .tiled-image-large {
+    width: 100%;
+    margin-right: 0;
   }
 }

@@ -11,7 +11,7 @@
         </p>
       </section>
 
-      <div class="card card-primary" style="margin: 32px 16px; font-size: 20px;">
+      <div class="card card-primary mb-2">
         <p>
           Enzenius is an educational consultancy agency specializing in IELTS preparation,
           university admissions, scholarship and visa/immigration process. The company was

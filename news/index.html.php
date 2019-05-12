@@ -36,6 +36,7 @@
           <a href="https://www.indianweekender.co.nz/Pages/ArticleDetails/7/10017/New-Zealand/Immigration-makes-new-remuneration-thresholds-changes-effective-November-26?fbclid=IwAR0HvXSyoLApaE0j1otMAoUP9x9uapkT27UvJWLkPJGoLV7f1BTMHXzOYug"
               target="_blank"  class="card-title">
               Immigration makes new remuneration thresholds changes effective November 26, 2018
+            <i class="material-icons">link</i>
           </a>
         </div>
 
@@ -43,6 +44,7 @@
           <a href="https://www.immigration.govt.nz/about-us/media-centre/news-notifications/immigration-fees-and-levies-changes?fbclid=IwAR0UkzsmbL4YXg8pFJT_hi3MhUYAvGFvgEC8jolrfsBl0XxmeFbU-3VpsTY"
               target="_blank"  class="card-title">
               New Zealand Immigration fees and levies changed from 1st October, 2018
+            <i class="material-icons">link</i>
           </a>
         </div>
 
@@ -50,6 +52,7 @@
           <a href="https://www.newshub.co.nz/home/new-zealand/2018/11/world-bank-ranks-new-zealand-best-place-to-do-business.html"
               target="_blank"  class="card-title">
               World Bank ranks New Zealand best place to do business
+            <i class="material-icons">link</i>
           </a>
         </div>
 
@@ -57,6 +60,7 @@
           <a href="https://www.immigration.govt.nz/about-us/policy-and-law/how-the-immigration-system-operates/skill-shortage-lists/current-skill-shortage-review"
               target="_blank"  class="card-title">
               Visit New Zealand Immigration website to learn about updated Skill Shortage list
+            <i class="material-icons">link</i>
           </a>
         </div>
 
@@ -64,12 +68,14 @@
           <a href="https://www.studyinnewzealand.govt.nz/futureproofyourself/?utm_source=facebook&utm_medium=social&utm_content=weblink_student&utm_campaign=aoc_futureproof_usa&nogeo=1"
               target="_blank"  class="card-title">
               New Zealand teachers lead the world at preparing students for the future
+            <i class="material-icons">link</i>
           </a>
         </div>
 
         <div class="card">
           <a href="https://www.nzherald.co.nz/nz/news/article.cfm?c_id=1&objectid=12140164"  target="_blank"  class="card-title">
               New Zealand passport ranked the 8th ‘most powerful’ in the world
+            <i class="material-icons">link</i>
           </a>
         </div>
 
@@ -77,6 +83,7 @@
           <a href="https://www.immigration.govt.nz/about-us/policy-and-law/how-the-immigration-system-operates/visa-application-process/how-long-it-takes-to-process-your-visa-application"
               target="_blank"  class="card-title">
               How Long It Takes to Process Your Visa Application
+            <i class="material-icons">link</i>
           </a>
         </div>
 
@@ -99,6 +106,7 @@
           <a href="http://skillshortages.immigration.govt.nz/"  target="_blank"  class="card-title">
               Please visit the New Zealand government website for up to date information on skill shortage list
               published by New Zealand Government
+            <i class="material-icons">link</i>
           </a>
         </div>
       </div>

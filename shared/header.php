@@ -31,7 +31,9 @@
 <body>
   <main class="site-main">
     <nav class="site-nav">
-      <h1 class="brand">Enzenius Education Consulting Services</h1>
+      <a href="/">
+        <h1 class="brand">Enzenius Education Consulting Services</h1>
+      </a>
 
       <div class="site-nav-menu">
         <a href="#" class="site-nav-menu-icon">

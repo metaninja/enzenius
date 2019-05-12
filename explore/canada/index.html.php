@@ -15,7 +15,7 @@
   </div>
 
   <h3>
-    <strong>Study and living expenses in USA</strong>
+    <strong>Canada</strong>
   </h3>
 
   <div class="card">
