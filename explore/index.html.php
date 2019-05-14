@@ -17,6 +17,10 @@
           New Zealand
         </a>
 
+        <a href="sweden" class="tiled-image-large" style="background-image: url(../assets/images/explore/sweden.jpg">
+          Sweden
+        </a>
+
         <a href="usa" class="tiled-image-large" style="background-image: url(../assets/images/explore/usa.jpg">
           United States of America
         </a>

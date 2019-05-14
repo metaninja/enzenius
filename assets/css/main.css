@@ -375,6 +375,9 @@ nav ul {
     margin-left: auto;
     margin-right: auto;
   }
+  .card p:last-child {
+    margin-bottom: 0;
+  }
   /*.cards .card {*/
   /*  width: 100%;*/
   /*  padding: 5%;*/
@@ -383,7 +386,7 @@ nav ul {
   /*  margin-bottom: 24px;*/
   /*}*/
   .card-primary {
-    padding: 3%;
+    padding: 5%;
   }
   .tiled-images-large .tiled-image-large {
     width: 100%;

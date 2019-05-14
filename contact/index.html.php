@@ -60,7 +60,7 @@
           <p>
             <b>Cell:</b> +8801676228866/ 01776228866<br>
             <b>Tel:</b> +88051 78378<br>
-            <b>E:</b> <a href="mailto:info.bd@enzenius.co.nz">info.bd@enzenius.co.nz</a>
+            <b>E:</b> <a href="mailto:karatoatat@gmail.com">karatoatat@gmail.com</a>
           </p>
           <p>
             <a href="http://www.enzenius.com">www.enzenius.com</a>
