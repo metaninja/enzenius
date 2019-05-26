@@ -25,8 +25,8 @@
             NEW ZEALAND
           </p>
           <p>
-            <b>Ph:</b> +64 20 4048 3811
-            <b>E: info@enzenius.co.nz</b>
+            <b>Ph:</b> +64 20 4048 3811<br>
+            <b>E: <a href="mailto:info@enzenius.co.nz">info@enzenius.co.nz</a></b>
           </p>
           <p>
             <a href="http://www.enzenius.co.nz">www.enzenius.co.nz</a>
@@ -45,7 +45,7 @@
           </p>
           <p>
             <b>Ph:</b> +88 018 419 34567<br>
-            <b>E:</b> info-ban@enzenius.co.nz
+            <b>E:</b> <a href="mailto:info.bd@enzenius.co.nz">info.bd@enzenius.co.nz</a>
           </p>
           <p>
             <a href="http://www.enzenius.com">www.enzenius.com</a>
@@ -80,8 +80,8 @@
             INDONESIA
           </p>
           <p>
-            <b>Ph:</b> +62(251) 8365790
-            <b>E:</b> info-indo@enzenius.co.nz
+            <b>Ph:</b> +62(251) 8365790<br>
+            <b>E:</b> <a href="mailto:info-indo@enzenius.co.nz">info-indo@enzenius.co.nz</a>
           </p>
           <p>
             <a href="http://www.banyanacademy.net">wwww.banyanacademy.net</a>
@@ -101,7 +101,7 @@
           </p>
           <p>
             <b>Ph:</b> +65 8247 1854<br>
-            <b>E:</b> cpcegrp@gmail.com
+            <b>E:</b> <a href="mailto:cpcegrp@gmail.com">cpcegrp@gmail.com</a>
           </p>
           <p>
             <a href="http://www.cpcegroup.com">www.cpcegroup.com</a>
@@ -118,7 +118,7 @@
             COMING SOON
           </p>
           <p>
-            <b>E:</b>  info-indo@enzenius.co.nz
+            <b>E:</b> <a href="mailto:info-indo@enzenius.co.nz">info-indo@enzenius.co.nz</a>
           </p>
           <p>
             <a href="http://www.enzenius.com">www.enzenius.com</a>

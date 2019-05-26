@@ -12,6 +12,7 @@
   --blue100: #BBDEFB;
   --blue300: #64B5F6;
   --blue600: #00ACC1;
+  --gray100: #f5f5f5;
   --gray200: #EEE;
   --gray400: #BDBDBD;
   --gray600: #757575;
@@ -237,13 +238,24 @@ nav ul {
 }
 
 .site-footer {
+  background-color: var(--gray100);
   margin-top: 48px;
   padding: 16px;
   display: flex;
   justify-content: space-between;
   width: 100%;
 }
-
+.site-footer-left,
+.site-footer-right {
+  display: flex;
+  align-items: center;
+}
+.site-footer .icon-social-media {
+  margin: 0 12px;
+}
+.site-footer .icon-social-media:last-child {
+  margin-right: 0;
+}
 .tiled-image {
   display: flex;
   margin: 24px;

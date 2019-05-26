@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="33px" height="32px" viewBox="0 0 33 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55 (78076) - https://sketchapp.com -->
+    <title>logo-facebook</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0.001875 0.00125736739 32 0.00125736739 32 31.9930845 0.001875 31.9930845"></polygon>
+    </defs>
+    <g id="Mockups" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Explore-Countries-(iPad)" transform="translate(-1241.000000, -976.000000)">
+            <g id="logo-facebook" transform="translate(1241.000000, 976.000000)">
+                <g id="Group-3" transform="translate(0.100535, 0.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <g id="Clip-2"></g>
+                    <path d="M32,16.0943026 C32,7.20565815 24.8365625,0 16,0 C7.1634375,0 0,7.20565815 0,16.0943026 C0,24.1274342 5.85096875,30.7856974 13.5,31.9930845 L13.5,20.7465619 L9.4375,20.7465619 L9.4375,16.0943026 L13.5,16.0943026 L13.5,12.5485265 C13.5,8.51489194 15.8886875,6.28683694 19.5434375,6.28683694 C21.2939688,6.28683694 23.125,6.60117878 23.125,6.60117878 L23.125,10.5618861 L21.1074375,10.5618861 C19.1198438,10.5618861 18.5,11.802499 18.5,13.0752692 L18.5,16.0943026 L22.9375,16.0943026 L22.228125,20.7465619 L18.5,20.7465619 L18.5,31.9930845 C26.1490313,30.7856974 32,24.1274342 32,16.0943026" id="Fill-1" fill="#0A0B09" mask="url(#mask-2)"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

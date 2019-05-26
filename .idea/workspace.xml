@@ -5,604 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/contact/index.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/contact/index.html.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/explore/index.html.php" beforeDir="false" afterPath="$PROJECT_DIR$/explore/index.html.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/example.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/addons/plugins/editors/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/addons/templates/filters.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/config/apps.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/config/buckets.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/config/config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/config/config.production.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/config/feathers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/config/filetypes.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/account/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/account/modes/_subnav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/account/modes/edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/account/modes/edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/PerchAssets_Asset.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/PerchAssets_Assets.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/PerchAssets_Display.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/PerchAssets_Importer.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/PerchAssets_MetaData.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/PerchAssets_SearchHandler.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/PerchAssets_ShortcodeProvider.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/PerchAssets_Tag.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/PerchAssets_Tags.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/async/asset-filter/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/async/get-assets/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/async/search/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/async/tags/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/_asset_grid.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/_asset_list.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/_smart_bar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/_subnav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/_upload_progress.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/list.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/list.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/reindex.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/reindex.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/tags.delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/tags.delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/tags.edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/tags.edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/tags.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/tags.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/upload.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/modes/upload.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/reindex/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/runtime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/tags/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/tags/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/tags/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/assets/upload/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/PerchCategories_Categories.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/PerchCategories_Category.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/PerchCategories_Set.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/PerchCategories_Sets.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/delete/set/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/_subnav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/cats.delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/cats.delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/cats.edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/cats.edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/cats.list.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/cats.list.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/cats.reorder.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/cats.reorder.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/sets.delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/sets.delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/sets.edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/sets.edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/sets.list.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/modes/sets.list.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/reorder/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/runtime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/sets/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/sets/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/categories/sets/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_Item.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_Items.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_NavGroup.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_NavGroups.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_Page.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_PageTemplate.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_PageTemplates.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_Pages.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_Region.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_Regions.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_SearchHandler.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/PerchContent_Util.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/admin.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/async/preview.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/collections/edit/block/add/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/collections/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/collections/edit/options/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/collections/import/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/collections/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/collections/options/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/dashboard.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/delete/collection/item/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/delete/item/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/edit/block/add/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/edit/denied/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/manage/collections/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/manage/collections/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/manage/collections/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/_subnav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/block.async.add.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/block.async.add.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/edit.denied.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/edit.denied.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/edit.form.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/edit.form.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/list.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/list.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.list.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.list.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.pages.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.pages.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.reorder.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/nav.reorder.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.add.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.add.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.details.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.details.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.reorder.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.reorder.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.republish.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.republish.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.url.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/page.url.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.define.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.define.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.itemlist.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.itemlist.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.options.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.options.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.reorder.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/region.reorder.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/template.delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/template.delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/template.edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/template.edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/template.list.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/modes/template.list.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/navigation/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/navigation/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/navigation/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/navigation/pages/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/navigation/reorder/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/options/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/page/add/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/page/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/page/details/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/page/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/page/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/page/templates/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/page/templates/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/page/templates/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/page/url/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/reorder/collection/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/reorder/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/reorder/region/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/republish/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/revisions/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/revisions/revert/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/routes/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/routes/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/routes/reorder/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/apps/content/runtime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/css/debug.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/css/ie9.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/css/jquery.tagsinput.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/img/burd.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/img/chosen-sprite.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/img/chosen-sprite@2x.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/img/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/img/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/img/perch.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/maps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/public_helper.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/public_maps.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/public_maps.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/setup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/1.1.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/10.10.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/11.11.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/12.12.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/13.13.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/14.14.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/2.2.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/3.3.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/4.4.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/5.5.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/6.6.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/7.7.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/8.8.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/9.9.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/app.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/static/vendor.6738d5d5f5664f7c5e34.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/templates/Lang.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/templates/asset-badge.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/templates/asset-chooser.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/templates/asset-grid.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/templates/asset-list.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/templates/dialog-confirm.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/templates/dialog-search.hbs" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/templates/icon.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/js/version.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/svg/assets.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/svg/blocks.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/svg/burd.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/svg/core.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/svg/ext.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/svg/pilotbadge.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/assets/svg/pilotbadge_wh.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/async/urlify.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/dashboard/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/dashboard/modes/_subnav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/dashboard/modes/dash.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/dashboard/modes/dash.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/mime.types" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/categories.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/category_counts.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/category_sets.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/content_index.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/content_items.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/content_regions.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/menu_items.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/navigation.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/navigation_pages.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/page_templates.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/pages.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/resource_log.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/resource_tags.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/resources.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/resources_to_tags.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/scheduled_tasks.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/settings.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/user_passwords.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/user_privileges.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/user_role_privileges.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/user_roles.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/data/tables/users.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/_config.inc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/assets/perchassets.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/css/markitup.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/fonts/FontAwesome.otf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/fonts/fontawesome-webfont.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/fonts/fontawesome-webfont.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/fonts/fontawesome-webfont.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/fonts/fontawesome-webfont.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/fonts/fontawesome-webfont.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/image_upload/image_upload.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/image_upload/image_upload.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/image_upload/image_upload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/image_upload/loader.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/markitup/jquery.markitup.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor/_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor/perch/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor/perch/edit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor/perch/upload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor/redactor.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor/redactor.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor2/_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor2/perch/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor2/perch/edit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor2/perch/upload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor2/redactor.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/redactor2/redactor.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/_config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/perch/config.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/perch/edit.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/perch/font/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/perch/font/perch_simplemde.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/perch/font/perch_simplemde.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/perch/font/perch_simplemde.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/perch/font/perch_simplemde.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/perch/font/perch_simplemde.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/simplemde.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/editors/simplemde/simplemde.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/emails/README.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/emails/account-lockout.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/emails/password-recover.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/emails/password-reset.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/emails/settings-test.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/emails/user-welcome-token.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/emails/user-welcome.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/error/db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/markdown/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/modes/_subnav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/modes/help.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/modes/help.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/modes/markdown.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/modes/markdown.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/modes/textile.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/modes/textile.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/help/textile/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/api.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/apps.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/auth.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/auth_light.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/btm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/feathers.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/forms.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/js_lang.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/js_privs.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/keepalive.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/loader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/main_end.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/main_start.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/pre_config.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/sidebar_end.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/sidebar_start.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/inc/top.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lang/en-gb.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PHPMailer.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/ParsedownExtra.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PasswordHash.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/Perch.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchAdmin.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchAdminListing.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchAlert.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchApp.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchAssetFile.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchAuthenticatedUser.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchBase.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchDB.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchDB_MySQL.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchDB_MySQLi.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchEmail.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchFactory.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchFeather.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchFieldType.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchFieldTypes.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchForm.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchHeadlessResponse.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchHeadlessSet.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchImage.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchLang.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchLogicString.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchMenu.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchMenuItem.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchMenuItems.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchPaging.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchParsedown.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchQuery.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchRepeater.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchRequest.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchResource.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchResourceBucket.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchResourceBuckets.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchResources.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchScheduledTask.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchScheduledTasks.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchSession.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchSetting.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchSettings.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchShortcode.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchShortcode_Parser.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchShortcode_Provider.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchSmartbar.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchSystem.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchSystemEvent.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchSystemEventSubject.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchTemplate.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchTemplateFilter.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchTemplateValidator.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchTemplatedForm.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchUI.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchURL.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchUser.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchUserPrivilege.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchUserPrivileges.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchUserRole.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchUserRoles.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchUsers.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchUtil.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/PerchXMLTag.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/SmartyPants.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/Textile.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_AssetImporter.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_AuthPlugin.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Base.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_CategoryImporter.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_CollectionImporter.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_ContentCollection.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_ContentCollections.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_ContentImporter.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_ContentRegion.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_ContentRegions.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Email.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Factory.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_FieldType.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Form.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_HTML.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_HTTPClient.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_HeadlessAPI.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_HeadlessFactory.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Image.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Lang.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Paging.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Resources.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_SearchHandler.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Settings.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_SubmittedForm.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Template.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_TemplateHandler.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_Text.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/api/PerchAPI_UserPrivileges.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/autoload.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/composer/ClassLoader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/composer/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/composer/autoload_classmap.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/composer/autoload_namespaces.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/composer/autoload_psr4.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/composer/autoload_real.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/composer/autoload_static.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/composer/installed.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/.scrutinizer.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/Cache.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/Crypto.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/Data.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/Db.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/File.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/Http.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/Image.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/Number.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/Protocol.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/System.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Feature/Text.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/morse/src/Morse.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/selecta/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/selecta/.scrutinizer.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/lib/vendor/drewm/selecta/src/Selecta.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/license.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/reset/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/runtime/core.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/runtime/loader.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/runtime/runtime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/scheduled/run.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/backup/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/backup/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/backup/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/backup/restore/general/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/backup/restore/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/diagnostics/add-ons/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/diagnostics/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/email/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/menu/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/menu/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/menu/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/menu/items/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/menu/reorder/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/menu/section/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/_app_settings.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/_app_settings.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/_subnav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/addons.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/addons.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/basic.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/basic.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/diagnostics.extended.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/diagnostics.extended.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/diagnostics.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/diagnostics.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/email.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/email.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/tasks.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/tasks.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/update.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/modes/update.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/tasks/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/settings/update/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/setup/runway/runway.sample.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/layout/btm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/layout/sidebar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/layout/top.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/layout/topbar.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/login/btm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/login/login.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/login/top.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/search/search-result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/setup/btm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/setup/top.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/update/btm.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/templates/update/top.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/update/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/update/scripts/2.1.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/update/scripts/2.5.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/update/scripts/2.7.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/update/scripts/3.0.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/add/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/_subnav.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/add.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/add.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/list.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/list.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.actions.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.actions.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.buckets.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.buckets.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.delete.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.delete.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.edit.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.edit.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.list.post.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/modes/roles.list.pre.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/roles/actions/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/roles/buckets/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/roles/delete/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/roles/edit/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/core/users/roles/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/runtime.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/PerchSetup_Installation.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/PerchSetup_Installations.class.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/account/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/config/host.sample.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/config/perch.sample.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/config/runway.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/config/runway.sample.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/database/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/done/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/env.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/license/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/rewrites/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/server/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/sql/perch.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/sql/runway.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/setup/user/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/categories/category.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/categories/set.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/content/article.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/content/code_block.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/content/file.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/content/google_analytics.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/content/image.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/content/map.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/content/text.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/content/text_block.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/navigation/breadcrumbs.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/navigation/item.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/pages/attributes/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/pages/attributes/seo.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/pages/default.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/pagination/default.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/pagination/page-links.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/search/search-form.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/perch/templates/search/search-result.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/perch/search.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shared/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/shared/footer.php" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -615,44 +18,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/usa/index.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="20" selection-start-line="20" selection-end-line="41" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/sweden/index.html.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="434" column="14" selection-start-line="434" selection-start-column="14" selection-end-line="434" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/shared/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact/index.html.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="393">
-              <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+            <state relative-caret-position="635">
+              <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/explore/newzealand/why/index.html.php">
+        <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="507">
-              <caret line="509" column="12" selection-start-line="450" selection-start-column="6" selection-end-line="509" selection-end-column="12" />
+            <state relative-caret-position="75">
+              <caret line="229" lean-forward="true" selection-start-line="229" selection-end-line="229" />
             </state>
           </provider>
         </entry>
@@ -670,8 +58,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.hero</find>
-      <find>o</find>
       <find>two-col</find>
       <find>the weather</find>
       <find>visa doc</find>
@@ -700,6 +86,8 @@
       <find>page-hero</find>
       <find>page-body</find>
       <find>^</find>
+      <find>footer</find>
+      <find>gray200</find>
     </findStrings>
     <replaceStrings>
       <replace>var(--gray700)</replace>
@@ -751,7 +139,6 @@
         <option value="$PROJECT_DIR$/pages/services/credits.html" />
         <option value="$PROJECT_DIR$/pages/explore/usa/index.html" />
         <option value="$PROJECT_DIR$/explore/usa/index.html" />
-        <option value="$PROJECT_DIR$/shared/footer.php" />
         <option value="$PROJECT_DIR$/home/home.html.php" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -778,15 +165,16 @@
         <option value="$PROJECT_DIR$/shared/header.php" />
         <option value="$PROJECT_DIR$/home/index.html.php" />
         <option value="$PROJECT_DIR$/news/index.html.php" />
-        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/explore/index.html.php" />
         <option value="$PROJECT_DIR$/explore/sweden/index.html.php" />
+        <option value="$PROJECT_DIR$/assets/css/main.css" />
         <option value="$PROJECT_DIR$/contact/index.html.php" />
+        <option value="$PROJECT_DIR$/shared/footer.php" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="53" />
     <option name="width" value="1680" />
     <option name="height" value="1027" />
   </component>
@@ -808,11 +196,6 @@
             <path>
               <item name="www" type="b2602c69:ProjectViewProjectNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="about" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -824,31 +207,25 @@
             <path>
               <item name="www" type="b2602c69:ProjectViewProjectNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="social" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="www" type="b2602c69:ProjectViewProjectNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
               <item name="contact" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="www" type="b2602c69:ProjectViewProjectNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-              <item name="newzealand" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-              <item name="newzealand" type="462c0819:PsiDirectoryNode" />
-              <item name="why" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="www" type="b2602c69:ProjectViewProjectNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="explore" type="462c0819:PsiDirectoryNode" />
-              <item name="usa" type="462c0819:PsiDirectoryNode" />
+              <item name="shared" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -861,7 +238,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/explore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -920,15 +297,21 @@
       <workItem from="1557450714425" duration="51000" />
       <workItem from="1557574948893" duration="2637000" />
       <workItem from="1557578724191" duration="7468000" />
-      <workItem from="1557639522626" duration="4337000" />
+      <workItem from="1557639522626" duration="4515000" />
+      <workItem from="1557882825213" duration="2401000" />
+      <workItem from="1558043225404" duration="197000" />
+      <workItem from="1558139923700" duration="15000" />
+      <workItem from="1558139952059" duration="13000" />
+      <workItem from="1558828910412" duration="743000" />
+      <workItem from="1558891435614" duration="594000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57594000" />
+    <option name="totallyTimeSpent" value="61735000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2547619" />
@@ -955,7 +338,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/grav/user/themes/quark/templates/partials/base.html.twig" />
     <entry file="file://$PROJECT_DIR$/grav/user/themes/quark/templates/partials/layout.html.twig" />
     <entry file="file://$PROJECT_DIR$/grav/user/themes/quark/templates/default.html.twig" />
     <entry file="file://$PROJECT_DIR$/grav/user/themes/quark/templates/blog.html.twig" />
@@ -991,13 +373,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/shared/footer.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
         </state>
       </provider>
     </entry>
@@ -1110,13 +485,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/deploy.sh">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/explore/australia/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
@@ -1144,20 +512,6 @@
           <folding>
             <element signature="n#style#0;n#img#0;n#p#0;n#div#0;n#div#0;n#div#4;n#section#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/home/index.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="38" column="15" lean-forward="true" selection-start-line="38" selection-start-column="15" selection-end-line="38" selection-end-column="15" />
         </state>
       </provider>
     </entry>
@@ -1205,33 +559,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="355" column="30" lean-forward="true" selection-start-line="355" selection-start-column="30" selection-end-line="355" selection-end-column="30" />
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/explore/usa/index.html.php">
+    <entry file="file://$PROJECT_DIR$/deploy.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="20" selection-start-line="20" selection-end-line="41" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/explore/newzealand/why/index.html.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="509" column="12" selection-start-line="450" selection-start-column="6" selection-end-line="509" selection-end-column="12" />
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/explore/sweden/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
+        <state relative-caret-position="870">
           <caret line="434" column="14" selection-start-line="434" selection-start-column="14" selection-end-line="434" selection-end-column="14" />
           <folding>
             <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
@@ -1239,10 +583,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/explore/usa/index.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" selection-start-line="20" selection-end-line="41" selection-end-column="14" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/home/index.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="60" selection-start-line="17" selection-start-column="60" selection-end-line="17" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/explore/newzealand/why/index.html.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="509" column="12" selection-start-line="450" selection-start-column="6" selection-end-line="509" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/social/logo-facebook.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="229" lean-forward="true" selection-start-line="229" selection-end-line="229" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contact/index.html.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="54" column="13" lean-forward="true" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        <state relative-caret-position="635">
+          <caret line="121" column="14" lean-forward="true" selection-start-line="121" selection-start-column="14" selection-end-line="121" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/shared/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="52" selection-start-line="11" selection-start-column="52" selection-end-line="11" selection-end-column="52" />
         </state>
       </provider>
     </entry>
