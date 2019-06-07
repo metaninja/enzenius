@@ -45,7 +45,7 @@
           </p>
           <p>
             <b>Ph:</b> +88 018 419 34567<br>
-            <b>E:</b> <a href="mailto:info.bd@enzenius.co.nz">info.bd@enzenius.co.nz</a>
+            <b>E:</b> <a href="mailto:enze.bd@gmail.com">enze.bd@gmail.com</a>
           </p>
           <p>
             <a href="http://www.enzenius.com">www.enzenius.com</a>

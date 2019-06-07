@@ -5,7 +5,7 @@
       </div>
       <div class="site-footer-right">
 
-        <a href="https://facebook.com" class="icon-social-media">
+        <a href="https://www.facebook.com/enzeniusLTD/" class="icon-social-media">
           <img src="/assets/images/social/logo-facebook.svg">
         </a>
 
