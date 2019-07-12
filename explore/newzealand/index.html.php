@@ -37,11 +37,42 @@
         <section class="row">
           <div class="one-thirds">
             <h3 class="card-title">
-              Universities annual costs
+              Colleges and other institutes costs
+            </h3>
+          </div>
+          <div class="two-thirds">
+            <p>
+              First degree:
+              <b>
+                NZ$18,000
+              </b>
+            </p>
+            <p>
+              English language course average cost <b>NZ$450</b> per week (25 hours a week).
+            </p>
+          </div>
+        </section>
+      </div>
+
+      <div class="card">
+        <section class="row">
+          <div class="one-thirds">
+            <h3 class="card-title">
+              Universities &amp; Other Public Institutions: Annual Costs
             </h3>
           </div>
           <div class="two-thirds">
             <table>
+              <tr>
+                <td>
+                  Bachelor degree:
+                </td>
+                <td>
+                  <b>
+                    NZ$22,000 - NZ$33,000
+                  </b>
+                </td>
+              </tr>
               <tr>
                 <td>
                   First degree:
@@ -82,18 +113,15 @@
         <section class="row">
           <div class="one-thirds">
             <h3 class="card-title">
-              Colleges and other institutes costs
+              Private Educational Establishments: Annual Costs
             </h3>
           </div>
           <div class="two-thirds">
             <p>
               First degree:
               <b>
-                NZ$18,000
+                NZ$15,000 - NZ$22,000
               </b>
-            </p>
-            <p>
-              English language course average cost <b>NZ$450</b> per week (25 hours a week).
             </p>
           </div>
         </section>
@@ -108,7 +136,7 @@
           </div>
           <div class="two-thirds">
             <p>
-              Living costs in New Zealand are averaged between <b>NZ$11,000 – NZ$13,000</b> annually, this is an averaged
+              Living costs in New Zealand are averaged between <b>NZ$15,000 – NZ$18,000</b> annually, this is an averaged
               cost including housing, health insurance, and other personal costs which varies for different individual.
             </p>
           </div>
